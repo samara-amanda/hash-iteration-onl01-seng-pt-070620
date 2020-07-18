@@ -19,5 +19,6 @@ def age_appropriate_birthday(birthdays)
     if age > 12
     puts "Happy Birthday #{name}! You are now #{age} years old!"
   end
+end
   birthdays
 end
